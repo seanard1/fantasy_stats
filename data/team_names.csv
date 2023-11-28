@@ -1,33 +1,33 @@
 abbreviation,name,gamesPlayed,gamesRemaining,goalsFor,goalsAgainst,logo,conference,division
-BOS,Boston Bruins,16,66,56,32,https://assets.nhle.com/logos/nhl/svg/BOS_light.svg,Eastern,Atlantic
-VGK,Vegas Golden Knights,19,63,67,47,https://assets.nhle.com/logos/nhl/svg/VGK_light.svg,Western,Pacific
-NYR,New York Rangers,15,67,52,34,https://assets.nhle.com/logos/nhl/svg/NYR_light.svg,Eastern,Metropolitan
-VAN,Vancouver Canucks,18,64,75,45,https://assets.nhle.com/logos/nhl/svg/VAN_light.svg,Western,Pacific
-LAK,Los Angeles Kings,16,66,63,44,https://assets.nhle.com/logos/nhl/svg/LAK_light.svg,Western,Pacific
-DAL,Dallas Stars,16,66,55,45,https://assets.nhle.com/logos/nhl/svg/DAL_light.svg,Western,Central
-FLA,Florida Panthers,17,65,52,46,https://assets.nhle.com/logos/nhl/svg/FLA_light.svg,Eastern,Atlantic
-COL,Colorado Avalanche,16,66,62,49,https://assets.nhle.com/logos/nhl/svg/COL_light.svg,Western,Central
-WPG,Winnipeg Jets,17,65,63,54,https://assets.nhle.com/logos/nhl/svg/WPG_light.svg,Western,Central
-TOR,Toronto Maple Leafs,17,65,62,59,https://assets.nhle.com/logos/nhl/svg/TOR_light.svg,Eastern,Atlantic
-PHI,Philadelphia Flyers,18,64,60,52,https://assets.nhle.com/logos/nhl/svg/PHI_light.svg,Eastern,Metropolitan
-WSH,Washington Capitals,15,67,39,40,https://assets.nhle.com/logos/nhl/svg/WSH_light.svg,Eastern,Metropolitan
-CAR,Carolina Hurricanes,17,65,56,54,https://assets.nhle.com/logos/nhl/svg/CAR_light.svg,Eastern,Metropolitan
-TBL,Tampa Bay Lightning,18,64,63,65,https://assets.nhle.com/logos/nhl/svg/TBL_light.svg,Eastern,Atlantic
-STL,St. Louis Blues,17,65,47,47,https://assets.nhle.com/logos/nhl/svg/STL_light.svg,Western,Central
-DET,Detroit Red Wings,17,65,61,57,https://assets.nhle.com/logos/nhl/svg/DET_light.svg,Eastern,Atlantic
-PIT,Pittsburgh Penguins,17,65,58,46,https://assets.nhle.com/logos/nhl/svg/PIT_light.svg,Eastern,Metropolitan
-ARI,Arizona Coyotes,17,65,57,53,https://assets.nhle.com/logos/nhl/svg/ARI_light.svg,Western,Central
-ANA,Anaheim Ducks,18,64,51,56,https://assets.nhle.com/logos/nhl/svg/ANA_light.svg,Western,Pacific
-SEA,Seattle Kraken,19,63,51,68,https://assets.nhle.com/logos/nhl/svg/SEA_light.svg,Western,Pacific
-NJD,New Jersey Devils,16,66,59,62,https://assets.nhle.com/logos/nhl/svg/NJD_light.svg,Eastern,Metropolitan
-NYI,New York Islanders,17,65,44,56,https://assets.nhle.com/logos/nhl/svg/NYI_light.svg,Eastern,Metropolitan
-BUF,Buffalo Sabres,18,64,51,57,https://assets.nhle.com/logos/nhl/svg/BUF_light.svg,Eastern,Atlantic
-OTT,Ottawa Senators,15,67,57,49,https://assets.nhle.com/logos/nhl/svg/OTT_light.svg,Eastern,Atlantic
-MTL,Montréal Canadiens,18,64,52,66,https://assets.nhle.com/logos/nhl/svg/MTL_light.svg,Eastern,Atlantic
-CGY,Calgary Flames,17,65,48,60,https://assets.nhle.com/logos/nhl/svg/CGY_light.svg,Western,Pacific
-MIN,Minnesota Wild,17,65,54,70,https://assets.nhle.com/logos/nhl/svg/MIN_light.svg,Western,Central
-NSH,Nashville Predators,16,66,48,54,https://assets.nhle.com/logos/nhl/svg/NSH_light.svg,Western,Central
-CBJ,Columbus Blue Jackets,19,63,51,70,https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg,Eastern,Metropolitan
-EDM,Edmonton Oilers,16,66,47,61,https://assets.nhle.com/logos/nhl/svg/EDM_light.svg,Western,Pacific
-CHI,Chicago Blackhawks,16,66,40,56,https://assets.nhle.com/logos/nhl/svg/CHI_light.svg,Western,Central
-SJS,San Jose Sharks,17,65,26,73,https://assets.nhle.com/logos/nhl/svg/SJS_light.svg,Western,Pacific
+NYR,New York Rangers,20,62,67,50,https://assets.nhle.com/logos/nhl/svg/NYR_light.svg,Eastern,Metropolitan
+BOS,Boston Bruins,21,61,71,55,https://assets.nhle.com/logos/nhl/svg/BOS_light.svg,Eastern,Atlantic
+VGK,Vegas Golden Knights,22,60,70,52,https://assets.nhle.com/logos/nhl/svg/VGK_light.svg,Western,Pacific
+COL,Colorado Avalanche,21,61,80,59,https://assets.nhle.com/logos/nhl/svg/COL_light.svg,Western,Central
+LAK,Los Angeles Kings,19,63,76,47,https://assets.nhle.com/logos/nhl/svg/LAK_light.svg,Western,Pacific
+VAN,Vancouver Canucks,22,60,88,56,https://assets.nhle.com/logos/nhl/svg/VAN_light.svg,Western,Pacific
+FLA,Florida Panthers,21,61,63,55,https://assets.nhle.com/logos/nhl/svg/FLA_light.svg,Eastern,Atlantic
+DAL,Dallas Stars,19,63,66,57,https://assets.nhle.com/logos/nhl/svg/DAL_light.svg,Western,Central
+WPG,Winnipeg Jets,20,62,71,59,https://assets.nhle.com/logos/nhl/svg/WPG_light.svg,Western,Central
+DET,Detroit Red Wings,20,62,74,60,https://assets.nhle.com/logos/nhl/svg/DET_light.svg,Eastern,Atlantic
+TBL,Tampa Bay Lightning,22,60,79,78,https://assets.nhle.com/logos/nhl/svg/TBL_light.svg,Eastern,Atlantic
+CAR,Carolina Hurricanes,20,62,67,67,https://assets.nhle.com/logos/nhl/svg/CAR_light.svg,Eastern,Metropolitan
+TOR,Toronto Maple Leafs,19,63,67,66,https://assets.nhle.com/logos/nhl/svg/TOR_light.svg,Eastern,Atlantic
+STL,St. Louis Blues,20,62,60,62,https://assets.nhle.com/logos/nhl/svg/STL_light.svg,Western,Central
+PHI,Philadelphia Flyers,21,61,64,58,https://assets.nhle.com/logos/nhl/svg/PHI_light.svg,Eastern,Metropolitan
+WSH,Washington Capitals,18,64,44,50,https://assets.nhle.com/logos/nhl/svg/WSH_light.svg,Eastern,Metropolitan
+NYI,New York Islanders,20,62,52,62,https://assets.nhle.com/logos/nhl/svg/NYI_light.svg,Eastern,Metropolitan
+BUF,Buffalo Sabres,22,60,64,71,https://assets.nhle.com/logos/nhl/svg/BUF_light.svg,Eastern,Atlantic
+CGY,Calgary Flames,22,60,64,75,https://assets.nhle.com/logos/nhl/svg/CGY_light.svg,Western,Pacific
+SEA,Seattle Kraken,22,60,62,78,https://assets.nhle.com/logos/nhl/svg/SEA_light.svg,Western,Pacific
+PIT,Pittsburgh Penguins,20,62,63,52,https://assets.nhle.com/logos/nhl/svg/PIT_light.svg,Eastern,Metropolitan
+NSH,Nashville Predators,20,62,67,64,https://assets.nhle.com/logos/nhl/svg/NSH_light.svg,Western,Central
+ARI,Arizona Coyotes,20,62,65,63,https://assets.nhle.com/logos/nhl/svg/ARI_light.svg,Western,Central
+MTL,Montréal Canadiens,21,61,59,75,https://assets.nhle.com/logos/nhl/svg/MTL_light.svg,Eastern,Atlantic
+NJD,New Jersey Devils,19,63,67,70,https://assets.nhle.com/logos/nhl/svg/NJD_light.svg,Eastern,Metropolitan
+ANA,Anaheim Ducks,21,61,58,73,https://assets.nhle.com/logos/nhl/svg/ANA_light.svg,Western,Pacific
+CBJ,Columbus Blue Jackets,23,59,67,79,https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg,Eastern,Metropolitan
+OTT,Ottawa Senators,17,65,60,59,https://assets.nhle.com/logos/nhl/svg/OTT_light.svg,Eastern,Atlantic
+EDM,Edmonton Oilers,20,62,66,74,https://assets.nhle.com/logos/nhl/svg/EDM_light.svg,Western,Pacific
+MIN,Minnesota Wild,19,63,57,77,https://assets.nhle.com/logos/nhl/svg/MIN_light.svg,Western,Central
+CHI,Chicago Blackhawks,19,63,49,70,https://assets.nhle.com/logos/nhl/svg/CHI_light.svg,Western,Central
+SJS,San Jose Sharks,22,60,36,90,https://assets.nhle.com/logos/nhl/svg/SJS_light.svg,Western,Pacific
